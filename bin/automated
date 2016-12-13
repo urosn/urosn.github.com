@@ -28,4 +28,3 @@ git push -f $ORIGIN_URL gh-pages
 git checkout -
 bower install
 echo "Deployed Successfully!"
-exit 0
