@@ -1,0 +1,6 @@
+{
+  "name": "papyrus_theme",
+  "dependencies": {
+    "jquery": "~3.1.1"
+  }
+}
