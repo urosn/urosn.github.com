@@ -7,7 +7,7 @@ machine:
 
 dependencies:
   pre:
-    - sudo ./bin/setup
+    - ./bin/setup
 
 test:
   post:
