@@ -18,4 +18,4 @@ deployment:
   production:
     branch: master
     commands:
-      - sh ./bin/automated
+      - bash ./bin/automated
