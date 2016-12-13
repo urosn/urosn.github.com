@@ -7,7 +7,7 @@ machine:
 
 dependencies:
   pre:
-    - ./bin/setup
+    - sh ./bin/setup
 
 test:
   post:
