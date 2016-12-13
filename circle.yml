@@ -3,7 +3,7 @@ machine:
     USER_NAME: urosn
     USER_EMAIL: urosn@beotel.rs
   ruby:
-    version: 2.3.3
+    version: 2.2.4
 
 dependencies:
   pre:
