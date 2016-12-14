@@ -1,18 +1,18 @@
 # Site settings
 title: "On Software Engineering, Mathematics<br>and Philosophy"
-author: "Hugo Sereno Ferreira"
-description: "This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order."
+author: "Uros Nedic"
+# description: "This is a blog about software, some mathematics, and the occasional philosophy. Not necessarily in that order."
 keywords: "Software Engineering, Mathematics, Philosophy, Scala, Epistemology, Existentialism, Programming, Machine-Learning, Artificial Intelligence, Statistics, Probability, Puzzles"
-biography: "I am a Professor of Software Engineering at the, University of Porto and Senior Researcher at PhD Thesis and my."
+# biography: "I am a Professor of Software Engineering at the, University of Porto and Senior Researcher at PhD Thesis and my."
 colophon: "© MMXIII — MMXVI"
 
 baseurl: ""
 url: "http://urosn.github.io"
 
-twitter_username: ferreira_hugo
+twitter_username: urosn
 github_username: urosn
-linkedin_username: hugoserenoferreira
-facebook_username: hugo.sereno.ferreira
+# linkedin_username: hugoserenoferreira
+# facebook_username: hugo.sereno.ferreira
 google-analytics: UA-69060-5
 
 simple_search: http://google.com/search
