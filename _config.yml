@@ -1,10 +1,10 @@
 # Site settings
 title: "On Mathematics, Computer Science Theory, and AI"
 author: "Uros Nedic"
-description: "This is a blog about computer science theory, some mathematics, and the ai. Not necessarily in that order."
+description: "This is a blog about computer science theory, some mathematics, and the AI. Not necessarily in that order."
 keywords: "Software Engineering, Computer Science Theory Mathematics, Haskell, Scala, Programming, Machine-Learning, Artificial Intelligence"
 biography: "I am a Software Engineer and a human being."
-colophon: "© MMXVI — MMXVII by Uros Nedic. Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>"
+colophon: "© MMXVI — MMXVII by Uros Nedic. </br> Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>"
 
 baseurl: ""
 url: "http://urosn.github.io"
