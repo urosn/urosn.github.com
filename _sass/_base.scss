@@ -315,7 +315,7 @@ table {
   padding-bottom: .5em;
   border-collapse: separate;
   background-color: $background-color;
-  border-left: 0pt solid $alt-color;
+  /* border-left: 0pt solid $alt-color; */
 
   td, th {
     display: table-cell;

@@ -4,7 +4,7 @@ author: "Uros Nedic"
 description: "This is a blog about computer science theory, some mathematics, and the AI. I put here all my thoughts that are not publication-ready."
 keywords: "Software Engineering, Computer Science Theory Mathematics, Haskell, Scala, Programming, Machine-Learning, Artificial Intelligence"
 biography: "I am a Software Engineer and aspiring Computer Science theorist. My ultimate goal is to develop AI algorithms with some provable guarantees."
-colophon: "MMXVI â€” MMXVII © Uros Nedic. Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> unless otherwise noted.<br>"
+colophon: "MMXVI â€ MMXVII © Uros Nedic. Content available under <a href='http://creativecommons.org/licenses/by-nc-sa/4.0/''>Creative Commons (BY-NC-SA)</a> unless otherwise noted."
 
 baseurl: ""
 url: "http://urosn.github.io"
